@@ -41,5 +41,4 @@ $ sudo nc -k -lvp 443 -e ./bof_demo
 $ python3 exploit_rop.py
 
 # Demo
-![Alt text](demo.gif) / ![](demo.gif)
-
+![Alt text](demo.gif)
